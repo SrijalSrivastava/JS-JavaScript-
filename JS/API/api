@@ -1,0 +1,17 @@
+The Fetch API provides an interface for fetching (sending/receving) resources
+
+It uses Request and Responses object
+
+The fetch() method is used to fetch a resources(data)
+
+let promises = fetch("url") 
+//fetch method always give the promises so we are handle with the help of Async await
+
+API: Application programing interface
+
+Some term:
+AJAX: AJAX is a Asynchronous JS and XML 
+JSON: JSON is a JavaScript Object notation 
+json()
+
+

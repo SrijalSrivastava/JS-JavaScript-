@@ -1,0 +1,2 @@
+// Curring function in JavaScript
+
